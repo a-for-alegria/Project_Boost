@@ -61,7 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Rocket.cs" />
+    <Compile Include="Assets\Scripts\Oscilator.cs" />
+    <Compile Include="Assets\Scripts\Rocket.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/dmitriykovalenko/Desktop/Unity/3_Project_Boost/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
